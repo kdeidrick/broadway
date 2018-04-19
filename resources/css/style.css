@@ -1,7 +1,44 @@
+html {
+    font-family: Helvetica;
+}
 body {
   text-align: center;
+}
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+   font-size: 70px;
+ }
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+}
+.header-nav {
+  color: white;
+  background-image: url("C:/Users/Krys/Desktop/git_practice/kdeidrick.github.io/broadway/resources/images/the-flatiron-building.png");
+}
+
+a {
+font-size: 18px;
+color: white;
+}
+
+#break {
+  color: white;
+  background-image: url("C:/Users/Krys/Desktop/git_practice/kdeidrick.github.io/broadway/resources/images/the-flatiron-building.png");
 }
 
 .footer-nav {
   text-align: left;
+  color: white;
+  background-color: dimgray;
 }
