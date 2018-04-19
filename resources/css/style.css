@@ -24,7 +24,7 @@ p {
 }
 .header-nav {
   color: white;
-  background-image: url("C:/Users/Krys/Desktop/git_practice/kdeidrick.github.io/broadway/resources/images/the-flatiron-building.png");
+  background-image: url(../images/the-flatiron-building.png);
 }
 
 a {
@@ -34,7 +34,7 @@ color: white;
 
 #break {
   color: white;
-  background-image: url("C:/Users/Krys/Desktop/git_practice/kdeidrick.github.io/broadway/resources/images/the-flatiron-building.png");
+  background-image: url(../images/the-flatiron-building.png);
 }
 
 .footer-nav {
